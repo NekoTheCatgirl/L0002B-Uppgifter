@@ -77,7 +77,7 @@ Console.WriteLine(RepetativeFunction(-189));
 ## Turning in your assignment
 You will need to zip up the whole project into a zip archive
 
-For winrar you can follow these steps:
-![Winrar 1](Images/Winrar1.png)
+For winrar you can follow these steps:<br>
+![Winrar 1](Images/Winrar1.png)<br>
 Then <br>
-![Winrar 2](Images/Winrar2.png)
+![Winrar 2](Images/Winrar2.png)<br>
