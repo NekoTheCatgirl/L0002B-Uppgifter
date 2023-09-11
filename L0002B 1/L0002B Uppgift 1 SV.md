@@ -1,10 +1,10 @@
 # Operationer och mattematik
 Denna uppgift går över operationer och mattematik.
 
-Du kommer behöva skapa denna uppgift som både en Console application:
-![Console Application](Images/ConsoleApplication.png)
-Samt som en Windows Forms App:
-![Windows Forms Application](Images/WindowsFormsApplication.png)
+Du kommer behöva skapa denna uppgift som både en Console application:<br>
+![Console Application](Images/ConsoleApplication.png)<br>
+Samt som en Windows Forms App:<br>
+![Windows Forms Application](Images/WindowsFormsApplication.png)<br>
 
 Du kan använda dig av .NET Framework eller ej, spelar ingen stor roll.
 
