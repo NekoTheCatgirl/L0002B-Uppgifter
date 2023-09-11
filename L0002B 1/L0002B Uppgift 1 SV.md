@@ -78,7 +78,7 @@ Console.WriteLine(RepetativOperationer(-189));
 ## Inlämmning
 Ni ska ta och zippa ihop erat projekt
 
-För att göra det genom WinRar så välj filerna du vill zippa upp, och sedan följ dessa bilder:
-![Winrar 1](Images/Winrar1.png)
+För att göra det genom WinRar så välj filerna du vill zippa upp, och sedan följ dessa bilder:<br>
+![Winrar 1](Images/Winrar1.png)<br>
 Sedan <br>
-![Winrar 2](Images/Winrar2.png)
+![Winrar 2](Images/Winrar2.png)<br>
