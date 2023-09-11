@@ -1,10 +1,10 @@
 # Operations and Math
 This task will go over operations and math.
 
-You will need to do this task using both a Console Application:
-![Console Application](Images/ConsoleApplication.png)
-And as a Windows Forms Application:
-![Windows Forms Application](Images/WindowsFormsApplication.png)
+You will need to do this task using both a Console Application: <br>
+![Console Application](Images/ConsoleApplication.png)<br>
+And as a Windows Forms Application:<br>
+![Windows Forms Application](Images/WindowsFormsApplication.png)<br>
 
 You can make use of .NET Framework or not, does not matter much.
 
